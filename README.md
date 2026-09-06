@@ -63,6 +63,28 @@ The expected filenames are:
 
 The corresponding GHCN-Daily station identifiers should be documented here using the final stations used in Notebook 01.
 
+## Repository Structure
+
+```text
+lake-water-level-dynamics-forecasting/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│   ├── ERP_00_Lake_Location_Map.ipynb
+│   ├── ERP_01_preprocessing_eda_dependence.ipynb
+│   ├── ERP_02_fourier_sarimax.ipynb
+│   ├── ERP_03_var_varx.ipynb
+│   └── ERP_04_xgboost.ipynb
+├── data/
+│   ├── README.md
+│   └── processed/
+│       └── water_climate_10_lakes_primary.csv
+└── outputs/
+    ├── figures/
+    ├── ccm_results/
+    └── forecasting_results/
+```
 # Meteorological Variables
 PRCP: daily precipitation (mm)
 TMAX: daily maximum temperature (°C)
