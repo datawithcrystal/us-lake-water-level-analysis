@@ -60,27 +60,23 @@ Raw source data are not redistributed in this repository. Source and station inf
 
 ```text
 lake-water-level-dynamics-forecasting/
-│
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-│
 ├── notebooks/
 │   ├── 00_lake_location_map.ipynb
 │   ├── 01_preprocessing_eda_dependence.ipynb
 │   ├── 02_fourier_sarimax.ipynb
 │   ├── 03_var_varx.ipynb
 │   └── 04_xgboost.ipynb
-│
 ├── data/
 │   ├── README.md
 │   └── processed/
 │       └── water_climate_10_lakes_primary.csv
-│
 └── outputs/
-    ├── figures/
     ├── ccm_results/
-    └── forecasting_results/
+    ├── forecasting_results/
+    └── figures/
 ```
 ---
 
