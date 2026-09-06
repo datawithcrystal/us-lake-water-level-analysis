@@ -1,0 +1,991 @@
+Lake 1,Lake 2,CCM From,CCM To,E,LibSize,rho
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,20.0,0.8119846800010755
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,40.0,0.8116345208539121
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,60.0,0.816164227561601
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,80.0,0.8149257870915049
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,100.0,0.8162773731310387
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,120.0,0.8124975047796378
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,140.0,0.8121401240303024
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,160.0,0.8116210960406415
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,180.0,0.8096479027337027
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,200.0,0.8079125846609811
+Lake Superior,Lake Huron,Lake Huron,Lake Superior,2,220.0,0.8056931599955739
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,20.0,0.8091989588016281
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,40.0,0.8266422671025764
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,60.0,0.8325094828705595
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,80.0,0.8248979615076435
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,100.0,0.82443547592345
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,120.0,0.8285180495653289
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,140.0,0.8311661938724912
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,160.0,0.8309351768563055
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,180.0,0.833325210286937
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,200.0,0.8352289759565066
+Lake Superior,Lake Huron,Lake Superior,Lake Huron,2,220.0,0.8391637198328086
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,20.0,0.8011015144234003
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,40.0,0.8016644908322028
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,60.0,0.8065250331144579
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,80.0,0.8041502657283601
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,100.0,0.8066493767766276
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,120.0,0.8024737163947119
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,140.0,0.8022040589684437
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,160.0,0.8017872280958077
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,180.0,0.8001336428203694
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,200.0,0.7985059520128783
+Lake Superior,Lake Michigan,Lake Michigan,Lake Superior,2,220.0,0.7960255812827395
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,20.0,0.81823098261535
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,40.0,0.828760793796081
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,60.0,0.8341499474703389
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,80.0,0.8339829018034675
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,100.0,0.8286018681598415
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,120.0,0.8259378677884703
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,140.0,0.8304087694769493
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,160.0,0.8328378024879035
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,180.0,0.8284263363745972
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,200.0,0.8308879903927316
+Lake Superior,Lake Michigan,Lake Superior,Lake Michigan,2,220.0,0.8329284645559818
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,20.0,0.5783568519184011
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,40.0,0.5978748211638255
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,60.0,0.621874999013706
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,80.0,0.6096113642044266
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,100.0,0.611775564302319
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,120.0,0.6011068907638101
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,140.0,0.5956722793125162
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,160.0,0.596083632247141
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,180.0,0.5882640041564967
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,200.0,0.5849130967086537
+Lake Superior,Lake Erie,Lake Erie,Lake Superior,3,220.0,0.5823208312870095
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,20.0,0.6495120371072788
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,40.0,0.6602163941540843
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,60.0,0.6792680190211068
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,80.0,0.6734975527561197
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,100.0,0.6802786263536308
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,120.0,0.6772784812189052
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,140.0,0.6705672643280639
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,160.0,0.6767637675220779
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,180.0,0.6773202813468628
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,200.0,0.6757108728041372
+Lake Superior,Lake Erie,Lake Superior,Lake Erie,3,220.0,0.6775608505586928
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,20.0,0.34593967288979816
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,40.0,0.42128410031002106
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,60.0,0.46505667069647433
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,80.0,0.4770772546058578
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,100.0,0.48843685380361146
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,120.0,0.4762228027972471
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,140.0,0.4873869842017178
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,160.0,0.4936482975843086
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,180.0,0.4880452031507817
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,200.0,0.49064426557459145
+Lake Superior,Lake Ontario,Lake Ontario,Lake Superior,3,220.0,0.4916560535247818
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,20.0,0.2923099789908744
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,40.0,0.2882396173982786
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,60.0,0.32388579460862166
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,80.0,0.31031468659881656
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,100.0,0.34381748907607573
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,120.0,0.33034087374704296
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,140.0,0.3333781029394334
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,160.0,0.3394225059251653
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,180.0,0.34215182912533093
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,200.0,0.32099192840110463
+Lake Superior,Lake Ontario,Lake Superior,Lake Ontario,3,220.0,0.325978431384076
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,20.0,0.2401819535160828
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,40.0,0.3043830305861891
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,60.0,0.3566332503097803
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,80.0,0.3620509023109474
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,100.0,0.34757616709724243
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,120.0,0.3453214390288862
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,140.0,0.348272657850789
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,160.0,0.3602017209162462
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,180.0,0.34797809641193256
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,200.0,0.33806574550721435
+Lake Superior,Lake Woods,Lake Woods,Lake Superior,2,220.0,0.33910821655796364
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,20.0,0.213646246858131
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,40.0,0.2035344118972021
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,60.0,0.2664882866977021
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,80.0,0.3048193307130178
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,100.0,0.30260312738696366
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,120.0,0.30130770669076584
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,140.0,0.30541997386874675
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,160.0,0.30642632513046897
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,180.0,0.30458209759975363
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,200.0,0.3001559607584532
+Lake Superior,Lake Woods,Lake Superior,Lake Woods,2,220.0,0.2954631505993773
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,20.0,0.523737633073196
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,40.0,0.5445717188765412
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,60.0,0.5478014925909923
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,80.0,0.5530296702872721
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,100.0,0.5589468589417735
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,120.0,0.5488850701170813
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,140.0,0.5441393339040809
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,160.0,0.5407295974357231
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,180.0,0.539005810352938
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,200.0,0.5375439401478508
+Lake Superior,Great Salt Lake,Great Salt Lake,Lake Superior,2,220.0,0.5361829272349253
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,20.0,0.584288522007576
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,40.0,0.61043078750171
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,60.0,0.6043279092116408
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,80.0,0.6041431746967483
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,100.0,0.6038758577949586
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,120.0,0.5983303302815227
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,140.0,0.5943460029456077
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,160.0,0.587195768566033
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,180.0,0.5911490026712312
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,200.0,0.5914480631266438
+Lake Superior,Great Salt Lake,Lake Superior,Great Salt Lake,2,220.0,0.5886849868232218
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,20.0,0.2657856850902083
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,40.0,0.262372973280962
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,60.0,0.24100365686310288
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,80.0,0.27793983318043525
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,100.0,0.2821606115311203
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,120.0,0.2810523039734433
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,140.0,0.2839494372014394
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,160.0,0.29967929660133275
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,180.0,0.30269400993269674
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,200.0,0.3104128674591753
+Lake Superior,Lake Champlain,Lake Champlain,Lake Superior,3,220.0,0.31389706335343376
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,20.0,0.2314711904851779
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,40.0,0.245344073148228
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,60.0,0.2751353246279664
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,80.0,0.28782612957044534
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,100.0,0.31824370090646
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,120.0,0.32610600688347424
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,140.0,0.3292445683101257
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,160.0,0.3230360289751738
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,180.0,0.33326462634305776
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,200.0,0.3429225502292596
+Lake Superior,Lake Champlain,Lake Superior,Lake Champlain,3,220.0,0.3427742183276653
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,20.0,0.08240459735943595
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,40.0,0.10842390091120788
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,60.0,0.11021391350611578
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,80.0,0.09114715781963084
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,100.0,0.08698156780473361
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,120.0,0.058373568541489805
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,140.0,0.04271002623367285
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,160.0,0.05791040153550271
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,180.0,0.060400831372384035
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,200.0,0.0727058148018127
+Lake Superior,Red Lake,Red Lake,Lake Superior,2,220.0,0.04319301688411451
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,20.0,0.16246297553476954
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,40.0,0.20272522290333406
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,60.0,0.24759799006673616
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,80.0,0.2601387515038375
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,100.0,0.29084415705947675
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,120.0,0.3044384675948369
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,140.0,0.31698951112121637
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,160.0,0.3347722992984152
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,180.0,0.33463273629742823
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,200.0,0.35299397802942334
+Lake Superior,Red Lake,Lake Superior,Red Lake,2,220.0,0.35946807339665326
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,20.0,0.11323417426252753
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,40.0,0.1097020944026638
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,60.0,0.15585800409287576
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,80.0,0.13889134127573557
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,100.0,0.1440504735870925
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,120.0,0.1559087988746961
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,140.0,0.16618004674132417
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,160.0,0.16877079712555593
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,180.0,0.1724085859463976
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,200.0,0.18364465412971015
+Lake Superior,Lake Tahoe,Lake Tahoe,Lake Superior,2,220.0,0.18589352007478463
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,20.0,0.2357064769251386
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,40.0,0.3098305333080361
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,60.0,0.30596942776026553
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,80.0,0.3326656877528873
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,100.0,0.33783534098676177
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,120.0,0.3384508014504797
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,140.0,0.3432155248497871
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,160.0,0.35112832907291364
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,180.0,0.35688212154091686
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,200.0,0.35661084010137245
+Lake Superior,Lake Tahoe,Lake Superior,Lake Tahoe,2,220.0,0.36048232768247035
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,20.0,0.9806742945401649
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,40.0,0.987091529917388
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,60.0,0.9926304126392269
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,80.0,0.9935698811561874
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,100.0,0.993996833321449
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,120.0,0.9947431107843034
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,140.0,0.9950931394066791
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,160.0,0.9954554832433742
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,180.0,0.9955829406721302
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,200.0,0.9957394690853008
+Lake Huron,Lake Michigan,Lake Michigan,Lake Huron,2,220.0,0.9958111462246793
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,20.0,0.9851359008369766
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,40.0,0.9903887088849481
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,60.0,0.9954843808181216
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,80.0,0.9961473718166362
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,100.0,0.9963578049426733
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,120.0,0.9968162225864436
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,140.0,0.9969601759188684
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,160.0,0.9971293228102358
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,180.0,0.9972322540705797
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,200.0,0.9973329836176325
+Lake Huron,Lake Michigan,Lake Huron,Lake Michigan,2,220.0,0.9973982218713922
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,20.0,0.8335604515700377
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,40.0,0.8678643116329218
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,60.0,0.8814923214953234
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,80.0,0.8816184936189465
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,100.0,0.8878134187222484
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,120.0,0.8905038976753078
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,140.0,0.8926043819266051
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,160.0,0.8967302962555493
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,180.0,0.8991760961487503
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,200.0,0.9012267141836938
+Lake Huron,Lake Erie,Lake Erie,Lake Huron,3,220.0,0.9025087947508463
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,20.0,0.8860424324928994
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,40.0,0.8973367692982783
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,60.0,0.9042057352667893
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,80.0,0.9050137026772754
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,100.0,0.9078591259166725
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,120.0,0.9076078467325172
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,140.0,0.9047917778687193
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,160.0,0.9071904133613916
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,180.0,0.9083280548866395
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,200.0,0.9079090056764118
+Lake Huron,Lake Erie,Lake Huron,Lake Erie,3,220.0,0.9096254681011929
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,20.0,0.43249913852730704
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,40.0,0.5793275698202887
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,60.0,0.6698264572653145
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,80.0,0.6956182096513619
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,100.0,0.7136736180900849
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,120.0,0.7210405949125784
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,140.0,0.7377024025307137
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,160.0,0.7426126818909153
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,180.0,0.7526527471292923
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,200.0,0.7578350271130334
+Lake Huron,Lake Ontario,Lake Ontario,Lake Huron,3,220.0,0.7631014313103461
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,20.0,0.2827782179061182
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,40.0,0.3036687395841237
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,60.0,0.34810045125588257
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,80.0,0.35414892295037276
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,100.0,0.3881489334802336
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,120.0,0.3731446636190543
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,140.0,0.3852724507730597
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,160.0,0.39139003393704763
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,180.0,0.3934596672307103
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,200.0,0.38679832921303164
+Lake Huron,Lake Ontario,Lake Huron,Lake Ontario,3,220.0,0.3905786394646699
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,20.0,0.08102627346106113
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,40.0,0.12272287312405503
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,60.0,0.12645678505513902
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,80.0,0.13892112021233222
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,100.0,0.1536415379785968
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,120.0,0.17045728255333356
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,140.0,0.16484327040982533
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,160.0,0.1761013437339886
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,180.0,0.17427341474878602
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,200.0,0.1818145416816565
+Lake Huron,Lake Woods,Lake Woods,Lake Huron,2,220.0,0.18018222249569335
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,20.0,0.05625553061328825
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,40.0,0.07105183408919816
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,60.0,0.11999985837888287
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,80.0,0.1443824387213226
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,100.0,0.1534521405314453
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,120.0,0.16975408520146368
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,140.0,0.15831524632135813
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,160.0,0.16174637209351422
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,180.0,0.16615983193943246
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,200.0,0.16698105986411954
+Lake Huron,Lake Woods,Lake Huron,Lake Woods,2,220.0,0.1547332728124577
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,20.0,0.5973461869548813
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,40.0,0.5928681740907351
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,60.0,0.6033059612084422
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,80.0,0.6034055602323833
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,100.0,0.5996265061602355
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,120.0,0.6140181344879702
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,140.0,0.609033818589424
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,160.0,0.6093110912913329
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,180.0,0.6117075591543936
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,200.0,0.6023159575570665
+Lake Huron,Great Salt Lake,Great Salt Lake,Lake Huron,2,220.0,0.601165430796605
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,20.0,0.5048602223816984
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,40.0,0.5081933464862891
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,60.0,0.49921140983388135
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,80.0,0.4938676644676308
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,100.0,0.4928310355912565
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,120.0,0.48116359603424214
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,140.0,0.48156524413486707
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,160.0,0.47885486683417045
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,180.0,0.480734682241487
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,200.0,0.4826939809428191
+Lake Huron,Great Salt Lake,Lake Huron,Great Salt Lake,2,220.0,0.4790224083098115
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,20.0,0.33105981401288254
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,40.0,0.39285874730937875
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,60.0,0.4970853778904504
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,80.0,0.5198564509752761
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,100.0,0.5490027463460041
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,120.0,0.5651159129787141
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,140.0,0.5717013773135248
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,160.0,0.580301520323523
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,180.0,0.5855756376654726
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,200.0,0.5958703860109038
+Lake Huron,Lake Champlain,Lake Champlain,Lake Huron,3,220.0,0.6069186254542251
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,20.0,0.11039511622116335
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,40.0,0.13448748785241132
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,60.0,0.16768059516958617
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,80.0,0.16505690298738035
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,100.0,0.21113379805354876
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,120.0,0.1971135279253456
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,140.0,0.198716610102429
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,160.0,0.19153636107683214
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,180.0,0.1925159660683174
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,200.0,0.18834401724902072
+Lake Huron,Lake Champlain,Lake Huron,Lake Champlain,3,220.0,0.18735658676914163
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,20.0,0.3533544383795693
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,40.0,0.3882601301824472
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,60.0,0.4461509166155141
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,80.0,0.4539774652840201
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,100.0,0.4641043826791087
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,120.0,0.472041175396233
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,140.0,0.4720881713834576
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,160.0,0.4715951858841745
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,180.0,0.4638404604898804
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,200.0,0.4741464835544689
+Lake Huron,Red Lake,Red Lake,Lake Huron,2,220.0,0.4746437396107256
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,20.0,0.24639816293341096
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,40.0,0.28251589915106623
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,60.0,0.33929628615838114
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,80.0,0.3447535265260773
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,100.0,0.36564955201860766
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,120.0,0.3803800218210657
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,140.0,0.3846015607522081
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,160.0,0.39761299532742017
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,180.0,0.4005933262883003
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,200.0,0.4073023127090264
+Lake Huron,Red Lake,Lake Huron,Red Lake,2,220.0,0.4119318332723007
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,20.0,0.21070811477384205
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,40.0,0.1908637301765318
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,60.0,0.20302546149910725
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,80.0,0.22490865483292694
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,100.0,0.23017113212277965
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,120.0,0.2542328721540156
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,140.0,0.2473564785143752
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,160.0,0.25932592017218703
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,180.0,0.2746993307871734
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,200.0,0.2718440099209637
+Lake Huron,Lake Tahoe,Lake Tahoe,Lake Huron,2,220.0,0.2834207591040385
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,20.0,0.18655522891566795
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,40.0,0.21626460406989678
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,60.0,0.21588303210950127
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,80.0,0.2393629319483615
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,100.0,0.24302326900566668
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,120.0,0.2408606318388014
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,140.0,0.24059829058183002
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,160.0,0.2359794422408476
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,180.0,0.2399170283556519
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,200.0,0.23258130527854984
+Lake Huron,Lake Tahoe,Lake Huron,Lake Tahoe,2,220.0,0.23061618675651235
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,20.0,0.8397263892145143
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,40.0,0.8670685029235008
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,60.0,0.8819757112337865
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,80.0,0.885765967762332
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,100.0,0.888122195909478
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,120.0,0.8912663988728566
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,140.0,0.8951617833519172
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,160.0,0.8967137825897769
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,180.0,0.8954927264453907
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,200.0,0.8966479861375278
+Lake Michigan,Lake Erie,Lake Erie,Lake Michigan,3,220.0,0.895522421470033
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,20.0,0.8838447889105359
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,40.0,0.8960648438770553
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,60.0,0.9029320981917796
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,80.0,0.9036850820216913
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,100.0,0.9057998446767682
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,120.0,0.9062326147715757
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,140.0,0.9030373790214542
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,160.0,0.9053650177089146
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,180.0,0.906808992675655
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,200.0,0.9063352487949669
+Lake Michigan,Lake Erie,Lake Michigan,Lake Erie,3,220.0,0.907815031198689
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,20.0,0.4557038038908795
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,40.0,0.5843919917752967
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,60.0,0.6796560808482404
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,80.0,0.7117324572274393
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,100.0,0.7300912606021418
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,120.0,0.7405487139031991
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,140.0,0.7557296707137977
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,160.0,0.7654073688183088
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,180.0,0.769750928294554
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,200.0,0.7698252082346662
+Lake Michigan,Lake Ontario,Lake Ontario,Lake Michigan,3,220.0,0.7720248054972199
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,20.0,0.29223346243612613
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,40.0,0.31065727979150515
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,60.0,0.3512645459767564
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,80.0,0.3580219206518353
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,100.0,0.3914815102836981
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,120.0,0.3754851840003254
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,140.0,0.38822658405807364
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,160.0,0.3934425372241933
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,180.0,0.39587842131558204
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,200.0,0.387731193058504
+Lake Michigan,Lake Ontario,Lake Michigan,Lake Ontario,3,220.0,0.3913693542821646
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,20.0,0.13623524845030927
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,40.0,0.173084253156107
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,60.0,0.2110035497461517
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,80.0,0.22998643617722286
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,100.0,0.21660637758441942
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,120.0,0.24545464768693043
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,140.0,0.2558425429306995
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,160.0,0.2660113839777897
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,180.0,0.282761564947283
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,200.0,0.2805840270665397
+Lake Michigan,Lake Woods,Lake Woods,Lake Michigan,2,220.0,0.2895207751816999
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,20.0,0.05390316577318917
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,40.0,0.07088848780942363
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,60.0,0.11858444421478445
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,80.0,0.1422394336166018
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,100.0,0.15029321844457283
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,120.0,0.1651043442033345
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,140.0,0.15699457530301894
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,160.0,0.15838189265944702
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,180.0,0.16293142355782425
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,200.0,0.16208462637794324
+Lake Michigan,Lake Woods,Lake Michigan,Lake Woods,2,220.0,0.15009976093776997
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,20.0,0.5913695231378143
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,40.0,0.6107967713109523
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,60.0,0.6188706071964096
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,80.0,0.6151477480213523
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,100.0,0.6220519929443589
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,120.0,0.6270865835227555
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,140.0,0.635639932996171
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,160.0,0.6337306972511354
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,180.0,0.6323468780004589
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,200.0,0.6391865659778484
+Lake Michigan,Great Salt Lake,Great Salt Lake,Lake Michigan,2,220.0,0.642800785876595
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,20.0,0.49669573557145413
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,40.0,0.501656225392049
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,60.0,0.4953561486007855
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,80.0,0.48906023892975814
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,100.0,0.486662935577962
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,120.0,0.4772413223775126
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,140.0,0.47628205968822523
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,160.0,0.4743296855010649
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,180.0,0.47510428668587734
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,200.0,0.477655251105802
+Lake Michigan,Great Salt Lake,Lake Michigan,Great Salt Lake,2,220.0,0.47346964374636463
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,20.0,0.3476970980366259
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,40.0,0.40152856651364344
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,60.0,0.5046447788075354
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,80.0,0.5374735377758798
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,100.0,0.5589933618229093
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,120.0,0.5748866167249398
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,140.0,0.5833714009590858
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,160.0,0.5907519034911597
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,180.0,0.5957614165576471
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,200.0,0.5965498508220777
+Lake Michigan,Lake Champlain,Lake Champlain,Lake Michigan,3,220.0,0.6039197005120476
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,20.0,0.09615919251678653
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,40.0,0.12236719460992285
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,60.0,0.15363692188477265
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,80.0,0.15140167836099555
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,100.0,0.1983155938600197
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,120.0,0.18265198562727736
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,140.0,0.18270251719623998
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,160.0,0.1752920229759697
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,180.0,0.1754840214778098
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,200.0,0.171648096206738
+Lake Michigan,Lake Champlain,Lake Michigan,Lake Champlain,3,220.0,0.1698969148824107
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,20.0,0.356168562883161
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,40.0,0.4002875531296458
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,60.0,0.4509694059029729
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,80.0,0.44739749992544126
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,100.0,0.4405401338953639
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,120.0,0.45294723786311264
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,140.0,0.445704623252122
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,160.0,0.45629847116677136
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,180.0,0.4586459833754798
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,200.0,0.46015885900539777
+Lake Michigan,Red Lake,Red Lake,Lake Michigan,2,220.0,0.4701315170411468
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,20.0,0.24698978275995054
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,40.0,0.28407427522114126
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,60.0,0.3393839552152298
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,80.0,0.34491636947081983
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,100.0,0.3663645498302203
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,120.0,0.3800810237671752
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,140.0,0.3843893397535149
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,160.0,0.3969246741277575
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,180.0,0.39882919395284366
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,200.0,0.40488396895439094
+Lake Michigan,Red Lake,Lake Michigan,Red Lake,2,220.0,0.40854155365191647
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,20.0,0.20471764470968243
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,40.0,0.17884781182459483
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,60.0,0.1740214533873357
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,80.0,0.18719490556293691
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,100.0,0.1570323280161971
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,120.0,0.16015739433210124
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,140.0,0.13198610277635667
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,160.0,0.13668183809238332
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,180.0,0.1309887369112122
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,200.0,0.11489187349184027
+Lake Michigan,Lake Tahoe,Lake Tahoe,Lake Michigan,2,220.0,0.1153137709706605
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,20.0,0.19017890448159075
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,40.0,0.2192326587444043
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,60.0,0.2158981552096373
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,80.0,0.23939807339949018
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,100.0,0.24323492451933512
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,120.0,0.24265052524118674
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,140.0,0.2438061449318877
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,160.0,0.23871670180683208
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,180.0,0.24388687123838118
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,200.0,0.23509579136623163
+Lake Michigan,Lake Tahoe,Lake Michigan,Lake Tahoe,2,220.0,0.23343225572461007
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,20.0,0.5601854780893025
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,40.0,0.593370370198773
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,60.0,0.6256790292593111
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,80.0,0.63916258194723
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,100.0,0.6505479075779027
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,120.0,0.6499941937001232
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,140.0,0.649357050936275
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,160.0,0.6452883982483458
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,180.0,0.6509919959552087
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,200.0,0.6493419248299523
+Lake Erie,Lake Ontario,Lake Ontario,Lake Erie,3,220.0,0.6512392476882674
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,20.0,0.5331598062715233
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,40.0,0.5624359633703662
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,60.0,0.589160686531615
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,80.0,0.5957767008814346
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,100.0,0.6070646440482198
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,120.0,0.6027545583062173
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,140.0,0.6116471795281765
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,160.0,0.6214052163481693
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,180.0,0.6249016133286027
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,200.0,0.6294296335019783
+Lake Erie,Lake Ontario,Lake Erie,Lake Ontario,3,220.0,0.6304715538232929
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,20.0,0.07449606534381074
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,40.0,0.1115394878984052
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,60.0,0.10523910097973474
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,80.0,0.11899081984498043
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,100.0,0.11432278524275696
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,120.0,0.138388203437065
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,140.0,0.11908199915528388
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,160.0,0.14711068686533618
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,180.0,0.13563478450209113
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,200.0,0.14193442905890455
+Lake Erie,Lake Woods,Lake Woods,Lake Erie,3,220.0,0.13503010768024562
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,20.0,0.12469552762852605
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,40.0,0.14932370494380046
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,60.0,0.18715546387235432
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,80.0,0.20331163805842425
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,100.0,0.2212765425562197
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,120.0,0.2107717259418253
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,140.0,0.21333749246166112
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,160.0,0.21658987749343045
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,180.0,0.23034600769835673
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,200.0,0.2298349735364286
+Lake Erie,Lake Woods,Lake Erie,Lake Woods,3,220.0,0.2255502681616341
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,20.0,0.36510580132358217
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,40.0,0.31692566481348977
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,60.0,0.3382104717515794
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,80.0,0.3251237501939868
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,100.0,0.34434455373533407
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,120.0,0.34000275524895507
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,140.0,0.32093524270931517
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,160.0,0.331841235582203
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,180.0,0.3401565248050603
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,200.0,0.3378662604236671
+Lake Erie,Great Salt Lake,Great Salt Lake,Lake Erie,3,220.0,0.3380701875344373
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,20.0,0.2327773044777229
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,40.0,0.22818289504457492
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,60.0,0.27730627925206763
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,80.0,0.28286385414013926
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,100.0,0.3117095717215216
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,120.0,0.30541052716962885
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,140.0,0.29764386219135497
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,160.0,0.3050071771747037
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,180.0,0.3024569996061322
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,200.0,0.28411957474676947
+Lake Erie,Great Salt Lake,Lake Erie,Great Salt Lake,3,220.0,0.28746986510904493
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,20.0,0.34205933089420026
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,40.0,0.38858650984728
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,60.0,0.44765584473430753
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,80.0,0.4514844525674805
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,100.0,0.4527447825385177
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,120.0,0.4729941598495574
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,140.0,0.46392838612867937
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,160.0,0.4686279439231507
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,180.0,0.47056617854726196
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,200.0,0.4666293351255291
+Lake Erie,Lake Champlain,Lake Champlain,Lake Erie,3,220.0,0.4756096776636056
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,20.0,0.10843647371502171
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,40.0,0.10471091425098292
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,60.0,0.14232041253453306
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,80.0,0.11714432055966806
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,100.0,0.1660242873050549
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,120.0,0.13724141504031487
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,140.0,0.14484998699520107
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,160.0,0.14768751524842297
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,180.0,0.14225909662795186
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,200.0,0.14002900740383348
+Lake Erie,Lake Champlain,Lake Erie,Lake Champlain,3,220.0,0.141295063906869
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,20.0,0.2133777077533347
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,40.0,0.24334568785871896
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,60.0,0.29055898696764887
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,80.0,0.31502802577965955
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,100.0,0.3175772363656064
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,120.0,0.30921970593595455
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,140.0,0.29918576788098156
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,160.0,0.3164252332807461
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,180.0,0.31061373760544486
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,200.0,0.3248787406495772
+Lake Erie,Red Lake,Red Lake,Lake Erie,3,220.0,0.33392404486784544
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,20.0,0.2541140698988934
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,40.0,0.30173643718042803
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,60.0,0.3527990353699459
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,80.0,0.3752311816086322
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,100.0,0.39960599389447526
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,120.0,0.41415795941889566
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,140.0,0.4207018080546635
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,160.0,0.42419889278097606
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,180.0,0.42427435239739253
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,200.0,0.4259345156109612
+Lake Erie,Red Lake,Lake Erie,Red Lake,3,220.0,0.43168587548955717
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,20.0,0.2204967412159815
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,40.0,0.212222835958248
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,60.0,0.22011325156292827
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,80.0,0.21049195376522495
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,100.0,0.23336226166556706
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,120.0,0.22102956765603748
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,140.0,0.20287709652696084
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,160.0,0.2156163700948491
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,180.0,0.22859008688969967
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,200.0,0.21793761425794012
+Lake Erie,Lake Tahoe,Lake Tahoe,Lake Erie,3,220.0,0.22420005660313577
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,20.0,0.23282853583407484
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,40.0,0.22588272156920985
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,60.0,0.24134047041440088
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,80.0,0.25147938138248493
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,100.0,0.27449975343068533
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,120.0,0.25762500066701255
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,140.0,0.2476756467310523
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,160.0,0.2620119429843333
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,180.0,0.2536329501941286
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,200.0,0.26457852300971774
+Lake Erie,Lake Tahoe,Lake Erie,Lake Tahoe,3,220.0,0.2579068406441649
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,20.0,0.35804501350865925
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,40.0,0.4233996450763652
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,60.0,0.41418684435782344
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,80.0,0.4403996262343982
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,100.0,0.4416407919519668
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,120.0,0.46002838915063726
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,140.0,0.45953124584859173
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,160.0,0.4867758890148665
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,180.0,0.5026525543364555
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,200.0,0.5021355676498718
+Lake Ontario,Lake Woods,Lake Woods,Lake Ontario,3,220.0,0.5131486999151628
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,20.0,0.3395502616058335
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,40.0,0.36955141952473347
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,60.0,0.3849301981990884
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,80.0,0.3874146719334371
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,100.0,0.40082934068874654
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,120.0,0.4111137261373827
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,140.0,0.40833055241819904
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,160.0,0.42790760088090796
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,180.0,0.42778043669844906
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,200.0,0.43204799072345895
+Lake Ontario,Lake Woods,Lake Ontario,Lake Woods,3,220.0,0.42838327159349693
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,20.0,0.029800286036773392
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,40.0,0.06843401170560777
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,60.0,0.04035295243991068
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,80.0,0.06598208846560288
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,100.0,0.08567334216203326
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,120.0,0.05931378242245311
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,140.0,0.06771501059549463
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,160.0,0.06686586288217179
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,180.0,0.07298600450194238
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,200.0,0.05317059464520799
+Lake Ontario,Great Salt Lake,Great Salt Lake,Lake Ontario,3,220.0,0.05775457313697886
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,20.0,0.14055533851111274
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,40.0,0.20711434186675542
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,60.0,0.2528380643420539
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,80.0,0.2659576096283167
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,100.0,0.303971464368738
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,120.0,0.3079928357295175
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,140.0,0.30584612925935933
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,160.0,0.33427659388534514
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,180.0,0.3349628457583454
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,200.0,0.32811727653427064
+Lake Ontario,Great Salt Lake,Lake Ontario,Great Salt Lake,3,220.0,0.34740035476229514
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,20.0,0.5368182522931632
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,40.0,0.5520899645637455
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,60.0,0.5671264530136826
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,80.0,0.5792442216427574
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,100.0,0.5866471062675964
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,120.0,0.589368189806413
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,140.0,0.5912823678667116
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,160.0,0.5939253921646999
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,180.0,0.5956850028890863
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,200.0,0.5922113996509336
+Lake Ontario,Lake Champlain,Lake Champlain,Lake Ontario,3,220.0,0.5996474498326658
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,20.0,0.519938288549438
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,40.0,0.5126394622374433
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,60.0,0.5222674608807936
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,80.0,0.507666063675161
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,100.0,0.5114999769827498
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,120.0,0.48637493294234047
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,140.0,0.49619593301190923
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,160.0,0.49919837132393485
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,180.0,0.4932337523035347
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,200.0,0.497538818715536
+Lake Ontario,Lake Champlain,Lake Ontario,Lake Champlain,3,220.0,0.4948602334716689
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,20.0,0.21850308064604068
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,40.0,0.2707797076621679
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,60.0,0.3017058997911199
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,80.0,0.27032060612533565
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,100.0,0.2756668565799986
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,120.0,0.2528920363493816
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,140.0,0.26962269540371087
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,160.0,0.2737281401756474
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,180.0,0.26835630457918763
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,200.0,0.2786725574079494
+Lake Ontario,Red Lake,Red Lake,Lake Ontario,3,220.0,0.2816105736874476
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,20.0,0.22340971035348328
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,40.0,0.33184507584815837
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,60.0,0.3360209092707639
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,80.0,0.3919816990160344
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,100.0,0.402047201385934
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,120.0,0.40270196802647157
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,140.0,0.431983577265367
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,160.0,0.4397033212955786
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,180.0,0.4307692367044723
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,200.0,0.4325957228942217
+Lake Ontario,Red Lake,Lake Ontario,Red Lake,3,220.0,0.43851838965688417
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,20.0,0.2532746078966723
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,40.0,0.24897563734961087
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,60.0,0.2779367019424032
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,80.0,0.3003379036031458
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,100.0,0.28220391617163465
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,120.0,0.28174048784565037
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,140.0,0.27387729963716223
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,160.0,0.2678868467042789
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,180.0,0.2689909911331961
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,200.0,0.26277274199589634
+Lake Ontario,Lake Tahoe,Lake Tahoe,Lake Ontario,3,220.0,0.2567377028116992
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,20.0,0.37285951501548403
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,40.0,0.39712358143420945
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,60.0,0.45085788747939304
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,80.0,0.4545874792874335
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,100.0,0.4588682580771845
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,120.0,0.4620227643704543
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,140.0,0.45453224696044503
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,160.0,0.4607366046297042
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,180.0,0.46579550227014616
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,200.0,0.4656534174633113
+Lake Ontario,Lake Tahoe,Lake Ontario,Lake Tahoe,3,220.0,0.46992364188595975
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,20.0,0.08031260317490026
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,40.0,0.1403299028291433
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,60.0,0.21022619064870068
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,80.0,0.22047157602602
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,100.0,0.2539545464420695
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,120.0,0.2512733893443379
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,140.0,0.2776436121971196
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,160.0,0.28702392909438484
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,180.0,0.29921900172028626
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,200.0,0.30806324570102406
+Lake Woods,Great Salt Lake,Great Salt Lake,Lake Woods,2,220.0,0.3089489851581302
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,20.0,0.15619341151771188
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,40.0,0.23102857507069485
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,60.0,0.23155079775309417
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,80.0,0.29433454195355524
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,100.0,0.29417867195436564
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,120.0,0.29092955706533463
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,140.0,0.3052557648495461
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,160.0,0.31318072122735857
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,180.0,0.3329806023489974
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,200.0,0.3238393263583695
+Lake Woods,Great Salt Lake,Lake Woods,Great Salt Lake,2,220.0,0.3262394458267914
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,20.0,0.26783614355117635
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,40.0,0.2795750783845952
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,60.0,0.2994694461473303
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,80.0,0.3124949596760295
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,100.0,0.31662416540626903
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,120.0,0.31805987932244567
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,140.0,0.32709242282175804
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,160.0,0.34963421497537084
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,180.0,0.3459189948262535
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,200.0,0.3502970128300035
+Lake Woods,Lake Champlain,Lake Champlain,Lake Woods,3,220.0,0.35080728719936355
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,20.0,0.11892618352877696
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,40.0,0.17789153266433477
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,60.0,0.19133495954289
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,80.0,0.20150778662663166
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,100.0,0.20241905983236194
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,120.0,0.20025370461522032
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,140.0,0.20936303619550878
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,160.0,0.21363746073737122
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,180.0,0.21493763554397916
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,200.0,0.2120315403394945
+Lake Woods,Lake Champlain,Lake Woods,Lake Champlain,3,220.0,0.2025295873509866
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,20.0,0.14268082464318355
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,40.0,0.22921827550603618
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,60.0,0.2612879783451851
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,80.0,0.2671922741057999
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,100.0,0.26408961389191
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,120.0,0.2559902546479644
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,140.0,0.2543233038393364
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,160.0,0.2850171082177869
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,180.0,0.2856528480787859
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,200.0,0.2891888546530468
+Lake Woods,Red Lake,Red Lake,Lake Woods,2,220.0,0.2895420779498191
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,20.0,0.21665576491945432
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,40.0,0.28038146175379647
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,60.0,0.28775027272643705
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,80.0,0.2798697627070512
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,100.0,0.2594173352833938
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,120.0,0.2485961563469624
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,140.0,0.23641381461408245
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,160.0,0.2509163668249159
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,180.0,0.2570600750194739
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,200.0,0.2365511689226396
+Lake Woods,Red Lake,Lake Woods,Red Lake,2,220.0,0.23989603269100623
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,20.0,-0.02126185528041343
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,40.0,-0.03719063700470803
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,60.0,-0.056226613427738395
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,80.0,-0.06129034598764018
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,100.0,-0.05812170906297728
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,120.0,-0.04142694606181492
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,140.0,-0.05444827454607933
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,160.0,-0.06572382069509744
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,180.0,-0.04626847784085697
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,200.0,-0.06506375813335225
+Lake Woods,Lake Tahoe,Lake Tahoe,Lake Woods,2,220.0,-0.05101392573552299
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,20.0,0.15261848523593044
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,40.0,0.23237416531121777
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,60.0,0.2695120472780236
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,80.0,0.2834000284253411
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,100.0,0.26245917185133283
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,120.0,0.3064493795597744
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,140.0,0.3146747694565364
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,160.0,0.3348829279493287
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,180.0,0.33741232070167715
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,200.0,0.3389282900770155
+Lake Woods,Lake Tahoe,Lake Woods,Lake Tahoe,2,220.0,0.35194327271541814
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,20.0,0.3317018822096044
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,40.0,0.3552718654988679
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,60.0,0.3725199345386357
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,80.0,0.4088320089507665
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,100.0,0.4236864371714675
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,120.0,0.4387095929396606
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,140.0,0.43531257653845373
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,160.0,0.4448856731403663
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,180.0,0.4469109990943405
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,200.0,0.4478066509635171
+Great Salt Lake,Lake Champlain,Lake Champlain,Great Salt Lake,3,220.0,0.46066366696667194
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,20.0,0.25667859605364207
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,40.0,0.3000629567852603
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,60.0,0.3030719687913396
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,80.0,0.30644230329215805
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,100.0,0.33276912850582535
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,120.0,0.31521178000846384
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,140.0,0.2974590043022482
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,160.0,0.28398779441459643
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,180.0,0.2898268728916754
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,200.0,0.2749923868667786
+Great Salt Lake,Lake Champlain,Great Salt Lake,Lake Champlain,3,220.0,0.2792552291597613
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,20.0,0.0972502606663653
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,40.0,0.14957968969683472
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,60.0,0.1532156288093481
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,80.0,0.1700102298479383
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,100.0,0.19034752460015336
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,120.0,0.17943293447871606
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,140.0,0.1662707638364635
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,160.0,0.17501047233324862
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,180.0,0.19406959223637169
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,200.0,0.1910847932876609
+Great Salt Lake,Red Lake,Red Lake,Great Salt Lake,2,220.0,0.18475819709503813
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,20.0,0.041506088710879914
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,40.0,0.04504333911380433
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,60.0,0.06603215662839101
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,80.0,0.04060967903358137
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,100.0,0.07035732790407169
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,120.0,0.08914960998704552
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,140.0,0.07500536389711013
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,160.0,0.09268781195814356
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,180.0,0.08970655041933737
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,200.0,0.09901223960873233
+Great Salt Lake,Red Lake,Great Salt Lake,Red Lake,2,220.0,0.108771166549719
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,20.0,0.16293103936633024
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,40.0,0.23951201241964615
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,60.0,0.2508129540808193
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,80.0,0.2487621464115291
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,100.0,0.22941324753906162
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,120.0,0.24499139695339966
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,140.0,0.23222080092226838
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,160.0,0.23988697521757119
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,180.0,0.2296078892129924
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,200.0,0.23552925877747272
+Great Salt Lake,Lake Tahoe,Lake Tahoe,Great Salt Lake,2,220.0,0.21962467464146554
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,20.0,0.1500329079764118
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,40.0,0.1222340474290986
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,60.0,0.13231054517670487
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,80.0,0.1538897631448868
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,100.0,0.12048701237856255
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,120.0,0.1369879446176207
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,140.0,0.1306584674772892
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,160.0,0.1319722864422938
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,180.0,0.11880187850574608
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,200.0,0.12342460608857089
+Great Salt Lake,Lake Tahoe,Great Salt Lake,Lake Tahoe,2,220.0,0.12214771155642708
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,20.0,0.21323000841224826
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,40.0,0.219280974939644
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,60.0,0.2134983649442705
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,80.0,0.2311220006720593
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,100.0,0.22929089926078366
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,120.0,0.21248923720259674
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,140.0,0.24684401083930654
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,160.0,0.23784405183179896
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,180.0,0.24556841568584553
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,200.0,0.2503587528967514
+Lake Champlain,Red Lake,Red Lake,Lake Champlain,3,220.0,0.24662520007775202
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,20.0,0.2754092145917873
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,40.0,0.3229103124358528
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,60.0,0.37997378248061475
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,80.0,0.4156575648034558
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,100.0,0.41397928598940104
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,120.0,0.42110854103196493
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,140.0,0.43727517744807454
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,160.0,0.43463219153208693
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,180.0,0.43263412459401723
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,200.0,0.4412184124624215
+Lake Champlain,Red Lake,Lake Champlain,Red Lake,3,220.0,0.4490553304011537
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,20.0,0.16505533857812607
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,40.0,0.12969994831842632
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,60.0,0.1290105074057455
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,80.0,0.12068744963690406
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,100.0,0.10093581119759246
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,120.0,0.10697164831293
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,140.0,0.0976072894605591
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,160.0,0.0912507167724673
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,180.0,0.09030874366263733
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,200.0,0.08044795435890964
+Lake Champlain,Lake Tahoe,Lake Tahoe,Lake Champlain,3,220.0,0.083900075887001
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,20.0,0.25403871591732585
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,40.0,0.35415922010614903
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,60.0,0.4254685363714622
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,80.0,0.4581988462835727
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,100.0,0.4731955558649098
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,120.0,0.5009301023165507
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,140.0,0.5040758786119854
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,160.0,0.5180974600977888
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,180.0,0.5292772378284842
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,200.0,0.5430628589037875
+Lake Champlain,Lake Tahoe,Lake Champlain,Lake Tahoe,3,220.0,0.5600678793108141
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,20.0,0.07132309979482769
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,40.0,0.09819388544777628
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,60.0,0.07695102116510473
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,80.0,0.11095757742955066
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,100.0,0.11043102901040307
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,120.0,0.12398824384683937
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,140.0,0.1423180570265689
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,160.0,0.15491115151980955
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,180.0,0.1550542551399441
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,200.0,0.1512643859516361
+Red Lake,Lake Tahoe,Lake Tahoe,Red Lake,2,220.0,0.15089865778794015
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,20.0,0.03315108908514911
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,40.0,0.07283106047825544
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,60.0,0.12365127708903778
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,80.0,0.11707168061374673
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,100.0,0.08780648933470087
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,120.0,0.09648522848325283
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,140.0,0.11133956839219157
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,160.0,0.1263104597788442
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,180.0,0.11654110602735893
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,200.0,0.1277384868803959
+Red Lake,Lake Tahoe,Red Lake,Lake Tahoe,2,220.0,0.1365509736281536
