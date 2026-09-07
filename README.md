@@ -1,69 +1,60 @@
-# Data Documentation
+# Correlation, Dependence and Forecasting of Water-Level Dynamics in Ten U.S. Lakes
 
-## Overview
+## Project Overview
 
-This directory contains the processed dataset used in the forecasting analyses and documentation for retrieving the original water-level and meteorological source data.
+This repository contains the reproducibility materials for an MSc Data Science dissertation investigating daily water-level dynamics across ten selected natural lakes in the United States over the period 2006–2025.
 
-Raw source data are not redistributed in this repository. They can be retrieved from NOAA Tides and Currents, USGS Water Data and NOAA/NCEI GHCN-Daily using the station information provided below.
+The study examines:
 
-For a complete reproduction of Notebook 01 from original source data, downloaded source files should be placed in:
+- temporal and seasonal characteristics of lake water levels;
+- relationships between meteorological variables and water levels;
+- contemporaneous and lagged dependence between lakes;
+- nonlinear directional dependence using Convergent Cross Mapping (CCM); and
+- out-of-sample water-level forecasting using statistical, multivariate and machine-learning models.
 
-```text
-data/
-└── raw data/
-    ├── water levels/
-    └── climate variables/
-```
-The raw data/ directory is not included in the public repository. Original data sources, station identifiers and expected filenames are documented below to support reproducibility.
+The analytical framework includes exploratory data analysis, Pearson and Spearman correlation, cross-correlation functions (CCF), CCM, seasonal naïve forecasting, Fourier-SARIMAX, VAR/VARX and XGBoost.
 
-# Study Period
+---
 
-The common study period is:
+## Study Lakes
 
-### 1 January 2006 to 31 December 2025
+The ten lakes included in the study are:
 
-# Water-Level Data
+- Lake Superior
+- Lake Huron
+- Lake Michigan
+- Lake Erie
+- Lake Ontario
+- Lake of the Woods
+- Great Salt Lake
+- Lake Tahoe
+- Red Lake
+- Lake Champlain
 
-Water-level observations for the five Laurentian Great Lakes were obtained from NOAA Tides and Currents.
+The sample includes both hydrologically connected lakes within the Laurentian Great Lakes system and geographically separated lakes with different climatic and hydrological settings.
 
-Water-level observations for Lake of the Woods, Great Salt Lake, Lake Tahoe, Red Lake and Lake Champlain were obtained from USGS Water Data.
+---
 
-| Lake              | Source | Station ID | Expected filename |
-| ----------------- | ------ | ---------- | ----------------- |
-| Lake Superior     | NOAA   | 9099064    | `Lake Superior 2006~2015.csv`; `Lake Superior 2016~2025.csv` |
-| Lake Huron        | NOAA   | 9075080    | `Lake Huron 2006~2015.csv`; `Lake Huron 2016~2025.csv` |
-| Lake Michigan     | NOAA   | 9087057    | `Lake Michigan 2006~2015.csv`; `Lake Michigan 2016~2025.csv` |
-| Lake Erie         | NOAA   | 9063020    | `Lake Erie 2006~2015.csv`; `Lake Erie 2016~2025.csv` |
-| Lake Ontario      | NOAA   | 9052058    | `Lake Ontario 2006~2015.csv`; `Lake Ontario 2016~2025.csv` |
-| Lake of the Woods | USGS   | 05140520   | `Lake Woods.csv` |
-| Great Salt Lake   | USGS   | 10010000   | `Great Salt Lake.csv` |
-| Lake Tahoe        | USGS   | 10337000   | `Lake Tahoe.csv` |
-| Red Lake          | USGS   | 05074000   | `Red Lake.csv` |
-| Lake Champlain    | USGS   | 04294500   | `Lake Champlain.csv` |
-Within the analytical code, Lake Woods is used as the internal label for Lake of the Woods.
+## Data Sources
 
-# Meteorological Data
+Water-level observations were obtained from:
 
-Meteorological observations were obtained from NOAA/NCEI GHCN-Daily.
+- **NOAA Tides & Currents** for Lakes Superior, Huron, Michigan, Erie and Ontario; and
+- **USGS Water Data** for Lake of the Woods, Great Salt Lake, Lake Tahoe, Red Lake and Lake Champlain.
 
-The source files should be placed in:
-data/raw data/climate variables/
+Meteorological observations were obtained from **NOAA/NCEI Global Historical Climatology Network Daily (GHCN-Daily)** stations selected to provide representative climate information for each lake.
 
-The expected filenames are:
-| Lake | GHCN-Daily Station ID | Station Name | Expected filename |
-|---|---|---|---|
-| Lake Superior | GHCND:USW00014913 | DULUTH INTERNATIONAL AIRPORT, MN US | Lake_Superior.csv |
-| Lake Huron | GHCND:USW00014841 | PELLSTON REGIONAL AIRPORT, MI US | Lake_Huron.csv |
-| Lake Michigan | GHCND:USW00014839 | MILWAUKEE MITCHELL AIRPORT, WI US | Lake_Michigan.csv |
-| Lake Erie | GHCND:USW00014733 | BUFFALO NIAGARA INTERNATIONAL AIRPORT, NY US | Lake_Erie.csv |
-| Lake Ontario | GHCND:USW00014768 | FREDERICK DOUGLASS GREATER ROCHESTER INTERNATIONAL AIRPORT, NY US | Lake_Ontario.csv |
-| Lake of the Woods | GHCND:USW00094961 | BAUDETTE INTERNATIONAL AIRPORT, MN US | Lake_Woods.csv |
-| Great Salt Lake | GHCND:USW00024127 | SALT LAKE CITY INTERNATIONAL AIRPORT, UT US | Great_Salt_Lake.csv |
-| Lake Tahoe | GHCND:USS0020K27S | TAHOE CITY CROSS, CA US | Lake_Tahoe.csv |
-| Red Lake | GHCND:USC00216787 | RED LAKE FALLS, MN US | Red_Lake.csv |
-| Lake Champlain | GHCND:USW00014742 | BURLINGTON INTERNATIONAL AIRPORT, VT US | Lake_Champlain.csv |
+The principal meteorological variables used in the analysis are:
 
-The corresponding GHCN-Daily station identifiers should be documented here using the final stations used in Notebook 01.
+- precipitation (`PRCP`);
+- maximum temperature (`TMAX`);
+- minimum temperature (`TMIN`);
+- mean temperature (`TMEAN`); and
+- water-equivalent snow depth (`WESD`), where available.
+
+Detailed information on monitoring stations, station identifiers, expected source filenames, variables and preprocessing is provided in [`data/README.md`](data/README.md).
+
+---
 
 ## Repository Structure
 
@@ -87,41 +78,226 @@ lake-water-level-dynamics-forecasting/
     ├── ccm_results/
     └── forecasting_results/
 ```
-# Meteorological Variables
-PRCP: daily precipitation (mm)
-TMAX: daily maximum temperature (°C)
-TMIN: daily minimum temperature (°C)
-TMEAN: daily mean temperature calculated from processed TMAX and TMIN
-WESD: water equivalent of snow on the ground (mm)
+Raw source data are not redistributed in this repository. Information required to retrieve and organise the original source files is provided in `data/README.md`.
 
-# Processed Dataset
+---
 
-Notebook 01 generates:
+## Notebook Contents
 
+### `ERP_00_Lake_Location_Map.ipynb`
+
+Creates the geographical visualisation of the ten study lakes and their associated water-level and meteorological monitoring stations.
+
+### `ERP_01_preprocessing_eda_dependence.ipynb`
+
+Performs:
+
+- water-level and meteorological data preprocessing;
+- missing-data treatment;
+- construction of the combined processed dataset;
+- exploratory data analysis;
+- seasonal and distributional analysis;
+- climate–water-level Pearson and Spearman correlations;
+- climate–water-level cross-correlation analysis;
+- inter-lake correlation and cross-correlation analysis; and
+- monthly Convergent Cross Mapping analysis.
+
+This notebook produces the processed dataset used by the downstream forecasting notebooks and exports selected CCM results.
+
+### `ERP_02_fourier_sarimax.ipynb`
+
+Implements the lake-specific statistical forecasting framework, including:
+
+- time-series diagnostics;
+- Augmented Dickey–Fuller tests;
+- seasonal decomposition;
+- ACF and PACF assessment;
+- seasonal naïve benchmarks;
+- Fourier-SARIMAX model selection;
+- climate-augmented Fourier-SARIMAX models;
+- validation-based model selection;
+- final test-period evaluation; and
+- residual diagnostics.
+
+### `ERP_03_var_varx.ipynb`
+
+Implements multivariate forecasting for the five Laurentian Great Lakes using:
+
+- VAR models based on first-differenced water levels;
+- validation-based lag selection;
+- VARX models incorporating meteorological predictors; and
+- independent test-period comparison of VAR and VARX forecasts.
+
+### `ERP_04_xgboost.ipynb`
+
+Implements recursive XGBoost forecasting using:
+
+- lagged lake-level predictors;
+- annual sine and cosine terms;
+- contemporaneous precipitation and mean temperature;
+- validation-based hyperparameter selection; and
+- final out-of-sample evaluation.
+
+The notebook also produces the final cross-model comparison across the ten study lakes.
+
+---
+
+## Forecasting Design
+
+To preserve temporal ordering and reduce information leakage, forecasting was evaluated using fixed chronological periods:
+
+- **Training:** 2006–2018
+- **Validation:** 2019–2021
+- **Final refit:** 2006–2021
+- **Test:** 2022–2025
+
+Model specifications and hyperparameters were selected using the training and validation periods only. Selected models were then refitted using data through the end of 2021 before final evaluation on the independent 2022–2025 test period.
+
+Climate-augmented SARIMAX, VARX and XGBoost forecasts use observed precipitation and mean temperature over the forecast horizon and should therefore be interpreted as **conditional forecasts** rather than forecasts based on independently predicted meteorological variables.
+
+---
+
+## Key Methodological Settings
+
+Important preprocessing and modelling settings include:
+
+- daily study period: 1 January 2006 to 31 December 2025;
+- water-level gaps of 14 days or fewer were linearly interpolated;
+- longer water-level gaps were retained as missing;
+- internal `TMAX` and `TMIN` gaps of 7 days or fewer were linearly interpolated;
+- precipitation was not interpolated;
+- `TMEAN` was calculated from `TMAX` and `TMIN`;
+- `WESD` was retained separately and was not interpolated;
+- the seasonal naïve benchmark used a 365-day lag;
+- Fourier terms used an annual period of 365.25 days;
+- climate-lag selection was performed using training data only;
+- VAR/VARX analysis was restricted to the five Laurentian Great Lakes;
+- XGBoost used lake-level lags of 1, 7, 14, 30 and 365 days;
+- CCM was performed using monthly lake-level series derived from the daily observations; and
+- randomised CCM procedures used a fixed seed for reproducibility.
+
+Further methodological details are documented directly within the notebooks and in the dissertation.
+
+---
+
+## Software Environment
+
+The analysis was developed using:
+
+```text
+Python 3.9.13
+```
+
+The principal Python packages and their versions are listed in:
+
+```text
+requirements.txt
+```
+
+A compatible environment can be created using:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## How to Reproduce the Analysis
+
+### Option 1: Reproduce from the original source data
+
+To reproduce the complete workflow from the original NOAA, USGS and GHCN-Daily files:
+
+1. Download the source data described in [`data/README.md`](data/README.md).
+2. Place the files in the directory structure specified there.
+3. Run the notebooks in the following order:
+
+```text
+1. ERP_00_Lake_Location_Map.ipynb
+2. ERP_01_preprocessing_eda_dependence.ipynb
+3. ERP_02_fourier_sarimax.ipynb
+4. ERP_03_var_varx.ipynb
+5. ERP_04_xgboost.ipynb
+```
+
+Notebook 01 performs the primary preprocessing and creates the processed dataset used by the forecasting notebooks.
+
+### Option 2: Reproduce the downstream analyses from the processed dataset
+
+The processed dataset used in the downstream analyses is provided at:
+
+```text
 data/processed/water_climate_10_lakes_primary.csv
+```
 
-This is the primary input dataset used by Notebooks 02–04.
+This allows the forecasting analyses in Notebooks 02–04 to be reproduced without separately downloading and preprocessing the original source data.
 
-The processed dataset contains the following variables:
+The processed dataset contains the principal fields:
 
-| Variable      | Description                            |
-| ------------- | -------------------------------------- |
-| Date          | Observation date                       |
-| Lake          | Lake identifier                        |
-| Lake_Level_ft | Daily lake water level in feet         |
-| PRCP          | Daily precipitation                    |
-| TMAX          | Daily maximum temperature              |
-| TMIN          | Daily minimum temperature              |
-| TMEAN         | Derived daily mean temperature         |
-| WESD          | Water equivalent of snow on the ground |
+```text
+Date
+Lake
+Lake_Level_ft
+PRCP
+TMAX
+TMIN
+TMEAN
+WESD
+```
 
-# Missing-Data Processing
+For complete preprocessing reproducibility, refer to Notebook 01 and `data/README.md`.
 
-Water-level gaps of 14 days or fewer were linearly interpolated, while longer gaps were retained as missing.
+---
 
-For meteorological data, internal TMAX and TMIN gaps of up to 7 days were linearly interpolated. Longer gaps were retained. PRCP was not interpolated. TMEAN was recalculated from the processed TMAX and TMIN series.
+## Reference Outputs
 
-Further preprocessing details are implemented in ERP_01_preprocessing_eda_dependence.ipynb.
+Selected analytical outputs are retained to support verification of the results reported in the dissertation.
+
+### Figures
+
+```text
+outputs/figures/
+```
+
+Contains selected figures used in the dissertation and supporting analytical visualisations.
+
+### CCM Results
+
+```text
+outputs/ccm_results/
+```
+
+Contains selected CCM outputs, including embedding-dimension results, pair-level summaries, directional summaries, convergence information and representative results.
+
+### Forecasting Results
+
+```text
+outputs/forecasting_results/
+```
+
+Contains selected outputs supporting model selection, validation and final test-period comparisons, including Fourier-SARIMAX, climate-augmented models, VAR/VARX and XGBoost results.
+
+These outputs are provided as reference materials rather than as substitutes for executing the notebooks.
+
+---
+
+## Reproducibility Notes
+
+The repository is intended to provide a clear and proportionate reproducibility package for the analyses reported in the dissertation.
+
+Original NOAA, USGS and GHCN-Daily source files are not redistributed. Instead, the repository provides:
+
+- source organisations and data products;
+- monitoring-station identifiers;
+- expected source filenames;
+- preprocessing rules;
+- the processed dataset used by the downstream analyses;
+- executable analysis notebooks;
+- the software environment specification; and
+- selected analytical outputs used to verify reported results.
+
+Detailed source-data documentation is available in [`data/README.md`](data/README.md).
+
 
 
 
