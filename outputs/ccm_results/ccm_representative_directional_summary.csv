@@ -1,0 +1,7 @@
+Lake pair,Direction,Start rho,Final rho,Rho gain,Late–early rho gain,Embedding dimension
+Lake Huron–Lake Michigan,Lake Michigan → Lake Huron,0.981,0.996,0.015,0.009,2
+Lake Huron–Lake Michigan,Lake Huron → Lake Michigan,0.985,0.997,0.012,0.007,2
+Lake Michigan–Lake Ontario,Lake Ontario → Lake Michigan,0.456,0.772,0.316,0.197,3
+Lake Michigan–Lake Ontario,Lake Michigan → Lake Ontario,0.292,0.391,0.099,0.074,3
+Lake Champlain–Lake Tahoe,Lake Tahoe → Lake Champlain,0.165,0.084,-0.081,-0.056,3
+Lake Champlain–Lake Tahoe,Lake Champlain → Lake Tahoe,0.254,0.56,0.306,0.2,3
