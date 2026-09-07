@@ -6,7 +6,7 @@ This directory contains the processed dataset used in the forecasting analyses a
 
 Raw source data are not redistributed in this repository. They can be retrieved from NOAA Tides and Currents, USGS Water Data and NOAA/NCEI GHCN-Daily using the station information provided below.
 
-For a complete reproduction of Notebook 01, downloaded source files should be placed in:
+For a complete reproduction of Notebook 01 from original source data, downloaded source files should be placed in:
 
 ```text
 data/
@@ -14,6 +14,8 @@ data/
     ├── water levels/
     └── climate variables/
 ```
+The raw data/ directory is not included in the public repository. Original data sources, station identifiers and expected filenames are documented below to support reproducibility.
+
 # Study Period
 
 The common study period is:
@@ -26,18 +28,18 @@ Water-level observations for the five Laurentian Great Lakes were obtained from 
 
 Water-level observations for Lake of the Woods, Great Salt Lake, Lake Tahoe, Red Lake and Lake Champlain were obtained from USGS Water Data.
 
-| Lake              | Source | Station ID | Expected filename                                        |
-| ----------------- | ------ | ---------- | -------------------------------------------------------- |
-| Lake Superior     | NOAA   | 9099064    | Lake Superior 2006~2015.csv; Lake Superior 2016~2025.csv |
-| Lake Huron        | NOAA   | 9075080    | Lake Huron 2006~2015.csv; Lake Huron 2016~2025.csv       |
-| Lake Michigan     | NOAA   | 9087057    | Lake Michigan 2006~2015.csv; Lake Michigan 2016~2025.csv |
-| Lake Erie         | NOAA   | 9063020    | Lake Erie 2006~2015.csv; Lake Erie 2016~2025.csv         |
-| Lake Ontario      | NOAA   | 9052058    | Lake Ontario 2006~2015.csv; Lake Ontario 2016~2025.csv   |
-| Lake of the Woods | USGS   | 05140520   | Lake Woods.csv                                           |
-| Great Salt Lake   | USGS   | 10010000   | Great Salt Lake.csv                                      |
-| Lake Tahoe        | USGS   | 10337000   | Lake Tahoe.csv                                           |
-| Red Lake          | USGS   | 05074000   | Red Lake.csv                                             |
-| Lake Champlain    | USGS   | 04294500   | Lake Champlain.csv                                       |
+| Lake              | Source | Station ID | Expected filename |
+| ----------------- | ------ | ---------- | ----------------- |
+| Lake Superior     | NOAA   | 9099064    | `Lake Superior 2006~2015.csv`; `Lake Superior 2016~2025.csv` |
+| Lake Huron        | NOAA   | 9075080    | `Lake Huron 2006~2015.csv`; `Lake Huron 2016~2025.csv` |
+| Lake Michigan     | NOAA   | 9087057    | `Lake Michigan 2006~2015.csv`; `Lake Michigan 2016~2025.csv` |
+| Lake Erie         | NOAA   | 9063020    | `Lake Erie 2006~2015.csv`; `Lake Erie 2016~2025.csv` |
+| Lake Ontario      | NOAA   | 9052058    | `Lake Ontario 2006~2015.csv`; `Lake Ontario 2016~2025.csv` |
+| Lake of the Woods | USGS   | 05140520   | `Lake Woods.csv` |
+| Great Salt Lake   | USGS   | 10010000   | `Great Salt Lake.csv` |
+| Lake Tahoe        | USGS   | 10337000   | `Lake Tahoe.csv` |
+| Red Lake          | USGS   | 05074000   | `Red Lake.csv` |
+| Lake Champlain    | USGS   | 04294500   | `Lake Champlain.csv` |
 Within the analytical code, Lake Woods is used as the internal label for Lake of the Woods.
 
 # Meteorological Data
@@ -119,7 +121,7 @@ Water-level gaps of 14 days or fewer were linearly interpolated, while longer ga
 
 For meteorological data, internal TMAX and TMIN gaps of up to 7 days were linearly interpolated. Longer gaps were retained. PRCP was not interpolated. TMEAN was recalculated from the processed TMAX and TMIN series.
 
-Further preprocessing details are implemented in 01_preprocessing_eda_dependence.ipynb.
+Further preprocessing details are implemented in ERP_01_preprocessing_eda_dependence.ipynb.
 
 
 
