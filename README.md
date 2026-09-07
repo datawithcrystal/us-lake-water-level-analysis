@@ -59,11 +59,12 @@ Detailed information on monitoring stations, station identifiers, expected sourc
 ## Repository Structure
 
 ```text
-lake-water-level-dynamics-forecasting/
+us-lake-water-level-analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
+│   ├── README.md
 │   ├── ERP_00_Lake_Location_Map.ipynb
 │   ├── ERP_01_preprocessing_eda_dependence.ipynb
 │   ├── ERP_02_fourier_sarimax.ipynb
@@ -71,13 +72,18 @@ lake-water-level-dynamics-forecasting/
 │   └── ERP_04_xgboost.ipynb
 ├── data/
 │   ├── README.md
+│   ├── metadata/
+│   │   ├── README.md
+│   │   └── Lake Metadata.xlsx
 │   └── processed/
+│       ├── README.md
 │       └── water_climate_10_lakes_primary.csv
 └── outputs/
     ├── figures/
     ├── ccm_results/
     └── forecasting_results/
 ```
+
 Raw source data are not redistributed in this repository. Information required to retrieve and organise the original source files is provided in `data/README.md`.
 
 ---
@@ -213,11 +219,11 @@ To reproduce the complete workflow from the original NOAA, USGS and GHCN-Daily f
 3. Run the notebooks in the following order:
 
 ```text
-1. ERP_00_Lake_Location_Map.ipynb
-2. ERP_01_preprocessing_eda_dependence.ipynb
-3. ERP_02_fourier_sarimax.ipynb
-4. ERP_03_var_varx.ipynb
-5. ERP_04_xgboost.ipynb
+1. notebooks/ERP_00_Lake_Location_Map.ipynb
+2. notebooks/ERP_01_preprocessing_eda_dependence.ipynb
+3. notebooks/ERP_02_fourier_sarimax.ipynb
+4. notebooks/ERP_03_var_varx.ipynb
+5. notebooks/ERP_04_xgboost.ipynb
 ```
 
 Notebook 01 performs the primary preprocessing and creates the processed dataset used by the forecasting notebooks.
@@ -290,6 +296,7 @@ Original NOAA, USGS and GHCN-Daily source files are not redistributed. Instead, 
 - source organisations and data products;
 - monitoring-station identifiers;
 - expected source filenames;
+- lake metadata;
 - preprocessing rules;
 - the processed dataset used by the downstream analyses;
 - executable analysis notebooks;
@@ -297,17 +304,3 @@ Original NOAA, USGS and GHCN-Daily source files are not redistributed. Instead, 
 - selected analytical outputs used to verify reported results.
 
 Detailed source-data documentation is available in [`data/README.md`](data/README.md).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
