@@ -1,0 +1,201 @@
+Lake,Year,Available_WESD_Days,Total_Days,Coverage Proportion
+Great Salt Lake,2006,365,365,1.0
+Great Salt Lake,2007,365,365,1.0
+Great Salt Lake,2008,366,366,1.0
+Great Salt Lake,2009,365,365,1.0
+Great Salt Lake,2010,365,365,1.0
+Great Salt Lake,2011,0,365,0.0
+Great Salt Lake,2012,0,366,0.0
+Great Salt Lake,2013,0,365,0.0
+Great Salt Lake,2014,0,365,0.0
+Great Salt Lake,2015,0,365,0.0
+Great Salt Lake,2016,0,366,0.0
+Great Salt Lake,2017,0,365,0.0
+Great Salt Lake,2018,0,365,0.0
+Great Salt Lake,2019,0,365,0.0
+Great Salt Lake,2020,0,366,0.0
+Great Salt Lake,2021,0,365,0.0
+Great Salt Lake,2022,0,365,0.0
+Great Salt Lake,2023,0,365,0.0
+Great Salt Lake,2024,0,366,0.0
+Great Salt Lake,2025,0,365,0.0
+Lake Champlain,2006,365,365,1.0
+Lake Champlain,2007,365,365,1.0
+Lake Champlain,2008,366,366,1.0
+Lake Champlain,2009,365,365,1.0
+Lake Champlain,2010,365,365,1.0
+Lake Champlain,2011,0,365,0.0
+Lake Champlain,2012,0,366,0.0
+Lake Champlain,2013,0,365,0.0
+Lake Champlain,2014,0,365,0.0
+Lake Champlain,2015,0,365,0.0
+Lake Champlain,2016,0,366,0.0
+Lake Champlain,2017,0,365,0.0
+Lake Champlain,2018,0,365,0.0
+Lake Champlain,2019,0,365,0.0
+Lake Champlain,2020,0,366,0.0
+Lake Champlain,2021,0,365,0.0
+Lake Champlain,2022,0,365,0.0
+Lake Champlain,2023,0,365,0.0
+Lake Champlain,2024,0,366,0.0
+Lake Champlain,2025,0,365,0.0
+Lake Erie,2006,365,365,1.0
+Lake Erie,2007,365,365,1.0
+Lake Erie,2008,366,366,1.0
+Lake Erie,2009,365,365,1.0
+Lake Erie,2010,365,365,1.0
+Lake Erie,2011,1,365,0.0027397260273972603
+Lake Erie,2012,0,366,0.0
+Lake Erie,2013,0,365,0.0
+Lake Erie,2014,0,365,0.0
+Lake Erie,2015,5,365,0.0136986301369863
+Lake Erie,2016,0,366,0.0
+Lake Erie,2017,238,365,0.6520547945205479
+Lake Erie,2018,0,365,0.0
+Lake Erie,2019,4,365,0.010958904109589041
+Lake Erie,2020,32,366,0.08743169398907104
+Lake Erie,2021,0,365,0.0
+Lake Erie,2022,0,365,0.0
+Lake Erie,2023,2,365,0.005479452054794521
+Lake Erie,2024,30,366,0.08196721311475409
+Lake Erie,2025,0,365,0.0
+Lake Huron,2006,0,365,0.0
+Lake Huron,2007,0,365,0.0
+Lake Huron,2008,0,366,0.0
+Lake Huron,2009,0,365,0.0
+Lake Huron,2010,0,365,0.0
+Lake Huron,2011,0,365,0.0
+Lake Huron,2012,0,366,0.0
+Lake Huron,2013,0,365,0.0
+Lake Huron,2014,0,365,0.0
+Lake Huron,2015,0,365,0.0
+Lake Huron,2016,0,366,0.0
+Lake Huron,2017,0,365,0.0
+Lake Huron,2018,0,365,0.0
+Lake Huron,2019,0,365,0.0
+Lake Huron,2020,0,366,0.0
+Lake Huron,2021,0,365,0.0
+Lake Huron,2022,0,365,0.0
+Lake Huron,2023,0,365,0.0
+Lake Huron,2024,0,366,0.0
+Lake Huron,2025,0,365,0.0
+Lake Michigan,2006,365,365,1.0
+Lake Michigan,2007,365,365,1.0
+Lake Michigan,2008,366,366,1.0
+Lake Michigan,2009,365,365,1.0
+Lake Michigan,2010,365,365,1.0
+Lake Michigan,2011,0,365,0.0
+Lake Michigan,2012,0,366,0.0
+Lake Michigan,2013,0,365,0.0
+Lake Michigan,2014,0,365,0.0
+Lake Michigan,2015,0,365,0.0
+Lake Michigan,2016,0,366,0.0
+Lake Michigan,2017,0,365,0.0
+Lake Michigan,2018,0,365,0.0
+Lake Michigan,2019,0,365,0.0
+Lake Michigan,2020,0,366,0.0
+Lake Michigan,2021,0,365,0.0
+Lake Michigan,2022,0,365,0.0
+Lake Michigan,2023,0,365,0.0
+Lake Michigan,2024,0,366,0.0
+Lake Michigan,2025,0,365,0.0
+Lake Ontario,2006,365,365,1.0
+Lake Ontario,2007,365,365,1.0
+Lake Ontario,2008,366,366,1.0
+Lake Ontario,2009,365,365,1.0
+Lake Ontario,2010,365,365,1.0
+Lake Ontario,2011,0,365,0.0
+Lake Ontario,2012,0,366,0.0
+Lake Ontario,2013,0,365,0.0
+Lake Ontario,2014,0,365,0.0
+Lake Ontario,2015,0,365,0.0
+Lake Ontario,2016,0,366,0.0
+Lake Ontario,2017,0,365,0.0
+Lake Ontario,2018,0,365,0.0
+Lake Ontario,2019,0,365,0.0
+Lake Ontario,2020,30,366,0.08196721311475409
+Lake Ontario,2021,3,365,0.00821917808219178
+Lake Ontario,2022,0,365,0.0
+Lake Ontario,2023,1,365,0.0027397260273972603
+Lake Ontario,2024,0,366,0.0
+Lake Ontario,2025,1,365,0.0027397260273972603
+Lake Superior,2006,365,365,1.0
+Lake Superior,2007,365,365,1.0
+Lake Superior,2008,366,366,1.0
+Lake Superior,2009,365,365,1.0
+Lake Superior,2010,365,365,1.0
+Lake Superior,2011,0,365,0.0
+Lake Superior,2012,0,366,0.0
+Lake Superior,2013,0,365,0.0
+Lake Superior,2014,0,365,0.0
+Lake Superior,2015,0,365,0.0
+Lake Superior,2016,0,366,0.0
+Lake Superior,2017,0,365,0.0
+Lake Superior,2018,0,365,0.0
+Lake Superior,2019,0,365,0.0
+Lake Superior,2020,0,366,0.0
+Lake Superior,2021,0,365,0.0
+Lake Superior,2022,0,365,0.0
+Lake Superior,2023,0,365,0.0
+Lake Superior,2024,0,366,0.0
+Lake Superior,2025,0,365,0.0
+Lake Tahoe,2006,365,365,1.0
+Lake Tahoe,2007,365,365,1.0
+Lake Tahoe,2008,366,366,1.0
+Lake Tahoe,2009,365,365,1.0
+Lake Tahoe,2010,365,365,1.0
+Lake Tahoe,2011,365,365,1.0
+Lake Tahoe,2012,366,366,1.0
+Lake Tahoe,2013,365,365,1.0
+Lake Tahoe,2014,365,365,1.0
+Lake Tahoe,2015,365,365,1.0
+Lake Tahoe,2016,366,366,1.0
+Lake Tahoe,2017,365,365,1.0
+Lake Tahoe,2018,365,365,1.0
+Lake Tahoe,2019,365,365,1.0
+Lake Tahoe,2020,366,366,1.0
+Lake Tahoe,2021,365,365,1.0
+Lake Tahoe,2022,365,365,1.0
+Lake Tahoe,2023,365,365,1.0
+Lake Tahoe,2024,366,366,1.0
+Lake Tahoe,2025,365,365,1.0
+Lake Woods,2006,0,365,0.0
+Lake Woods,2007,0,365,0.0
+Lake Woods,2008,0,366,0.0
+Lake Woods,2009,0,365,0.0
+Lake Woods,2010,0,365,0.0
+Lake Woods,2011,0,365,0.0
+Lake Woods,2012,0,366,0.0
+Lake Woods,2013,0,365,0.0
+Lake Woods,2014,0,365,0.0
+Lake Woods,2015,0,365,0.0
+Lake Woods,2016,0,366,0.0
+Lake Woods,2017,0,365,0.0
+Lake Woods,2018,0,365,0.0
+Lake Woods,2019,0,365,0.0
+Lake Woods,2020,0,366,0.0
+Lake Woods,2021,0,365,0.0
+Lake Woods,2022,0,365,0.0
+Lake Woods,2023,0,365,0.0
+Lake Woods,2024,0,366,0.0
+Lake Woods,2025,0,365,0.0
+Red Lake,2006,0,365,0.0
+Red Lake,2007,0,365,0.0
+Red Lake,2008,0,366,0.0
+Red Lake,2009,0,365,0.0
+Red Lake,2010,0,365,0.0
+Red Lake,2011,0,365,0.0
+Red Lake,2012,0,366,0.0
+Red Lake,2013,0,365,0.0
+Red Lake,2014,0,365,0.0
+Red Lake,2015,0,365,0.0
+Red Lake,2016,0,366,0.0
+Red Lake,2017,0,365,0.0
+Red Lake,2018,0,365,0.0
+Red Lake,2019,0,365,0.0
+Red Lake,2020,0,366,0.0
+Red Lake,2021,0,365,0.0
+Red Lake,2022,0,365,0.0
+Red Lake,2023,0,365,0.0
+Red Lake,2024,0,366,0.0
+Red Lake,2025,0,365,0.0
