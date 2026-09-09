@@ -24,9 +24,10 @@ The common study period is:
 
 # Water-Level Data
 
-Water-level observations for the five Laurentian Great Lakes were obtained from NOAA Tides and Currents.
+Water-level observations for the five Laurentian Great Lakes were obtained from NOAA Tides and Currents as verified daily mean records for 2006–2025, retrieved in Standard units (feet) using Local Standard Time (LST); because NOAA limits Great Lakes daily-mean retrievals to a maximum of 3,655 days (approximately 10 years) per request, the study period was downloaded in two consecutive periods and combined during preprocessing.
 
 Water-level observations for Lake of the Woods, Great Salt Lake, Lake Tahoe, Red Lake and Lake Champlain were obtained from USGS Water Data.
+
 
 | Lake              | Source | Station ID | Expected filename |
 | ----------------- | ------ | ---------- | ----------------- |
