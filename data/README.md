@@ -65,7 +65,6 @@ The expected filenames are:
 | Red Lake | GHCND:USC00216787 | RED LAKE FALLS, MN US | Red_Lake.csv |
 | Lake Champlain | GHCND:USW00014742 | BURLINGTON INTERNATIONAL AIRPORT, VT US | Lake_Champlain.csv |
 
-The corresponding GHCN-Daily station identifiers should be documented here using the final stations used in Notebook 01.
 
 # Meteorological Variables
 PRCP: daily precipitation (mm)
